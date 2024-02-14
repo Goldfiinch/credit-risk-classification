@@ -2,9 +2,10 @@
 
 Requirements
 Split the Data into Training and Testing Sets (30 points)
-- To receive all points, you must:the lending_data.csv data from the Resources folder into a Pandas DataFrame. (5 points)
--     Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns. (10 points)
--     Split the data into training and testing datasets by using train_test_split. (15 points)
+- To receive all points, you must:
+-   the lending_data.csv data from the Resources folder into a Pandas DataFrame. (5 points)
+-   Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns. (10 points)
+-   Split the data into training and testing datasets by using train_test_split. (15 points)
 
 Create a Logistic Regression Model (30 points)
 - To receive all points, you must:
