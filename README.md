@@ -33,3 +33,7 @@ Coding Conventions and Formatting (10 points)
 Code Comments (10 points)
 - To receive all points, your code must:
 -   Be well commented with concise, relevant notes that other developers can understand. (10 points)
+
+Sources:
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
